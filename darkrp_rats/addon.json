@@ -1,0 +1,6 @@
+{
+	"title": "DarkRP - Rats & Deratiseur",
+	"type": "gamemode",
+	"tags": ["roleplay", "fun"],
+	"ignore": ["*.md", ".git*"]
+}
